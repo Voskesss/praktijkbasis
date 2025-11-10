@@ -8,7 +8,9 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "check-latency": "./check-latency.sh",
+    "check-latency:multi": "./check-latency.sh -n 5"
   },
   "dependencies": {
     "react": "^19.1.0",
