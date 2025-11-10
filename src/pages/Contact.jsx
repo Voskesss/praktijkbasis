@@ -22,8 +22,8 @@ function Contact() {
                 <h3>Adres</h3>
                 <address>
                   Praktijkbasis<br />
-                  Praktijkstraat 1<br />
-                  7971 XX Havelte
+                  Dorlangenweg 1<br />
+                  7973 Darp
                 </address>
               </div>
               <div className="info-item">

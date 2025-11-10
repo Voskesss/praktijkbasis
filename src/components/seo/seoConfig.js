@@ -6,7 +6,7 @@
 export const SITE_NAME = 'Praktijk basSIS';
 export const SITE_URL = 'https://praktijkbasis.eu';
 export const SITE_DESCRIPTION = 'Lichaamsgerichte traumatherapie met een christelijke basis. Siska Greving helpt mensen om weer in balans te komen en rust te vinden in een veilige omgeving.';
-export const SITE_KEYWORDS = 'praktijkbasis, lichaamsgerichte traumatherapie, christelijke basis, Siska Greving, balans, rust, herstel, trauma, persoonlijke groei, bewustwording, traumaverwerking, Havelte, Drenthe';
+export const SITE_KEYWORDS = 'praktijkbasis, lichaamsgerichte traumatherapie, christelijke basis, Siska Greving, balans, rust, herstel, trauma, persoonlijke groei, bewustwording, traumaverwerking, Darp, Drenthe';
 export const SITE_AUTHOR = 'Siska Greving';
 export const SITE_LANGUAGE = 'nl';
 
@@ -28,15 +28,15 @@ export const getLocalBusinessSchema = () => ({
   'telephone': '06-12345678', // Vervang door het juiste telefoonnummer
   'address': {
     '@type': 'PostalAddress',
-    'streetAddress': 'Praktijkstraat 1', // Vervang door het juiste adres
-    'addressLocality': 'Havelte', // Aangepast naar Havelte op basis van de briefing
-    'postalCode': '7971 XX', // Vervang door de juiste postcode
+    'streetAddress': 'Dorlangenweg 1',
+    'addressLocality': 'Darp',
+    'postalCode': '7973',
     'addressCountry': 'NL'
   },
   'geo': {
     '@type': 'GeoCoordinates',
-    'latitude': '52.7710', // Vervang door de juiste coördinaten van Havelte
-    'longitude': '6.2360'  // Vervang door de juiste coördinaten van Havelte
+    'latitude': '52.7389',
+    'longitude': '6.5428'
   },
   'openingHoursSpecification': [
     {

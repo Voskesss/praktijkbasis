@@ -34,7 +34,7 @@ function Footer() {
           <h3>Contact</h3>
           <p>Email: info@praktijkbasis.eu</p>
           <p>Telefoon: 06-12345678</p>
-          <p>Adres: Praktijkstraat 1, 9400 AA Assen</p>
+          <p>Adres: Dorlangenweg 1, 7973 Darp</p>
           <p>KvK: 12345678</p>
           <p>AGB-code: 12345678</p>
         </div>
