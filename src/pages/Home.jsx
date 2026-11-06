@@ -152,7 +152,7 @@ function Home() {
               <h3>Neem contact op</h3>
               <p><strong>Email:</strong> info@praktijkbasis.eu</p>
               <p><strong>Telefoon:</strong> 06-12345678</p>
-              <p><strong>Adres:</strong> Praktijkstraat 1, 7971 XX Havelte</p>
+              <p><strong>Adres:</strong> Dorlangenweg 1, 7973 Darp</p>
               <Link to="/contact" className="read-more">Meer contactinformatie</Link>
             </div>
             <div className="contact-form">

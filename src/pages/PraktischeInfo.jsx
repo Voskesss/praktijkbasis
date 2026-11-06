@@ -20,13 +20,13 @@ function PraktischeInfo() {
           <div className="location-content">
             <div className="location-info">
               <p>
-                Praktijkbasis bevindt zich in Havelte, in een rustige groene omgeving. De praktijkruimte is een plek van privacy en stilte, makkelijk bereikbaar met de auto en met voldoende parkeergelegenheid voor de deur.
+                Praktijkbasis bevindt zich in Darp, in een rustige groene omgeving. De praktijkruimte is een plek van privacy en stilte, makkelijk bereikbaar met de auto en met voldoende parkeergelegenheid voor de deur.
               </p>
               <address>
                 <strong>Adres:</strong><br />
                 Praktijkbasis<br />
-                Praktijkstraat 1<br />
-                7971 XX Havelte<br />
+                Dorlangenweg 1<br />
+                7973 Darp<br />
                 <strong>Telefoon:</strong> 06-12345678<br />
                 <strong>E-mail:</strong> info@praktijkbasis.eu
               </address>
